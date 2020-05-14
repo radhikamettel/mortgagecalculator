@@ -1,0 +1,35 @@
+.customselect{
+    width:100%;
+    border-radius: 5px;
+    height:40px;
+}
+
+.customcontainer{
+    padding: 0px;
+}
+.customcolumn{
+    padding-right: 2 px;
+}
+.blackiconcolor{
+    color:#999999
+}
+.input-container{
+    display: flex;
+    width:100%;
+    margin-bottom: 0px;
+}
+.custominput{
+    border-top-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+}
+
+.icon{
+    padding: 10px;
+    background: #acabab;
+    color: white;
+    min-width: 50px;
+    text-align: center;
+    border-radius: 5px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+}

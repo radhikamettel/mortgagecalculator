@@ -1,0 +1,12 @@
+.heading{
+    border-bottom: solid 1px #666;
+}
+.headingtext{
+    padding: 5px;
+    margin-left: 15px;
+}
+.description{
+    margin-top: 15px;
+    padding: 5px;
+    font-size: 15px;
+}
